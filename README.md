@@ -9,6 +9,6 @@ After you have installed it, click the `Activate` link to activate it.
 
 ## Usage
 
-To display the badge on any page, simple add this shortcode to your content:
+To display the badge on any page, simply add this shortcode to your content:
 
 `[spokane_clean_air]`
