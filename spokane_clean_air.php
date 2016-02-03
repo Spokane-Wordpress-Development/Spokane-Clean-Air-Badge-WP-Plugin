@@ -51,7 +51,7 @@ class SpokaneCleanAir {
 					</div>
 
 					<div class='srcaa-badge'>
-						<a href='#TB_inline?width=600&height=300&inlineId=srcaa-discussion' class='thickbox' title='Forecast Discussion'>
+						<a href='#TB_inline?width=600&height=400&inlineId=srcaa-discussion' class='thickbox' title='Forecast Discussion'>
 							<img src='https://www.spokanecleanair.org/images/spokanecleanair/badge/badge-back.png' border='0' alt='Spokane Clean Air Agency' title='Spokane Clean Air Agency'>
 						</a>
 						<div class='srcaa-badge-forecast srcaa-badge-forecast-a'>
