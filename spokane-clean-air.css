@@ -1,0 +1,27 @@
+.srcaa-alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #ebccd1;
+    border-radius: 4px;
+    color: #a94442;
+    background-color: #f2dede;
+}
+
+.srcaa-badge {
+    position: relative;
+    width: 170px;
+    height: 224px;
+}
+
+.srcaa-badge-forecast {
+    position: absolute;
+    top: 112px;
+}
+
+.srcaa-badge-forecast-a {
+    left: 7px;
+}
+
+.srcaa-badge-forecast-b {
+    left: 90px;
+}
